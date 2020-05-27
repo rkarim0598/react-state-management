@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Dune",
+        "review": "It was pretty good",
+        "rating": 5
+    },
+    {
+        "title": "Lion Boy",
+        "review": "Made me fall asleep",
+        "rating": 1
+    },
+    {
+        "title": "Player of Games",
+        "review": "Feel bad for the guy who got castrated",
+        "rating": 5
+    },
+    {
+        "title": "Harry Potter and the Sorceror's Stone",
+        "review": "Is it bad? No. Is it amazing? Nah.",
+        "rating": 3
+    },
+    {
+        "title": "Wuthering Heights",
+        "review": "Dear God I hope I never have to read it again",
+        "rating": 2
+    },
+    {
+        "title": "The Scarlet Letter",
+        "review": "Useful for SATs and falling asleep",
+        "rating": 2
+    }
+]
